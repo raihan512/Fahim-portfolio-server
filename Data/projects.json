@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "thumb": "https://i.ibb.co/vjmQc0f/4e5d98f6-a155-42e0-afaa-a4945f7e7ed2-rwc-0x0x810x633x640.jpg",
+        "images":["https://i.ibb.co/ZzkFzpx/jhpre.jpg","https://i.ibb.co/z79H9ZK/podf.jpg","https://i.ibb.co/Sc8MvXx/por.jpg","https://i.ibb.co/ZN92M9c/rhre.jpg","https://i.ibb.co/JnSYzYZ/rpfg.jpg","https://i.ibb.co/vjmQc0f/4e5d98f6-a155-42e0-afaa-a4945f7e7ed2-rwc-0x0x810x633x640.jpg"],
+        "title":"Project Relief",
+        "linkName":["BASICS","Project Relief"],
+        "link": ["https://www.facebook.com/Basics-1818239711609814","https://www.facebook.com/permalink.php?story_fbid=2464267610340351&id=1818239711609814"],
+        "desc":"In May 2020, BASICS conducted 3 food distribution events as Project Relief, outside the capital city, for 132 people, with a 230000 BDT budget. This was done to help people who were deprived of or lost their jobs due to the pandemic, with provisions to support their families.",
+        "year":"2022"
+    },
+    {
+        "id": "2",
+        "thumb": "https://i.ibb.co/wYM1sZj/429337a7-d57b-457e-87e5-2d64c03d5560-rwc-27x0x511x400x640.png",
+        "images":["https://i.ibb.co/YhZ9t8L/1c006808-ff62-44f5-966f-cd74b92647a5-rw-1920.jpg"],
+        "title":"News Article Analysis",
+        "linkName":["project","CMNS 130", "Yellow Journalism"],
+        "link": ["https://drive.google.com/file/d/14LRXV60mDmgFL2vTA8NPrjFqO8Ji80h7/view","https://www.columbiacollege.ca/programs/course/cmns-130/","https://drive.google.com/file/d/1F2jYG5V8miOqMLgOmWeqs5OIYpZG46Zo/view"],
+        "desc":"In-class project for CMNS 130, demonstrating how journalists approach news creation, focusing especially on yellow journalism.",
+        "year":"2022"
+    },
+    {
+        "id": "3",
+        "thumb": "https://i.ibb.co/4ZN6Rvy/d4ac9d78-d9aa-436a-a4c2-3cd3c60fed6e-rwc-400x0x478x374x640.png",
+        "images":["https://i.ibb.co/Z2mgwyb/e5ce2067-66a7-438a-aa11-4fafa7e468fc-rw-1920.png"],
+        "title":"Case Study on Unilever",
+        "linkName":["Presentation","BUSN 250"],
+        "link": ["https://docs.google.com/file/d/1INmh3K6R0q30H0aaHOM8Xf0XyzNdhm3v/edit?filetype=mspresentation","https://www.columbiacollege.ca/programs/course/busn-250/"],
+        "desc":"Made a report and in-class presentation for BUSN 250, comparing and contrasting the pricing model, brand value, production utilization, marketing strategies, and other regional factors between two different brands, LUX and Dove, under the supervision of Unilever PLC.",
+        "year":"2022"
+    },
+    {
+        "id": "4",
+        "thumb": "https://i.ibb.co/LrpyHvb/1ae2abed-c7fe-48ad-8b11-ea20ddfa98a0-rwc-106x0x4664x3647x640.jpg",
+        "images":["https://i.ibb.co/9vCsJz2/8f23bc42-8289-48bb-a3a7-d4a221319855.png"],
+        "title":"Digital is Forever",
+        "linkName":["Presentation","CSCI 237"],
+        "link": ["https://docs.google.com/file/d/1uFubVuceaAD4jTqdUO3EzLy2dPKlBHk3/edit?filetype=mspresentation","https://www.columbiacollege.ca/programs/course/csci-237/"],
+        "desc":"In-class presentation for CSCI 237, describing the addiction and reliance on digitization and their surrounding concerns.",
+        "year":"2022"
+    },
+    {
+        "id": "5",
+        "thumb": "https://i.ibb.co/sV0RNHJ/2dac55f0-fada-4fe9-9003-aa1290940e6a-rwc-540x0x6253x4889x640.jpg",
+        "images":["https://i.ibb.co/GHQX1vJ/datsdsa.png"],
+        "title":"Data Warehousing",
+        "linkName":["Presentation","CSCI 237"],
+        "link": ["https://docs.google.com/file/d/1GUPh_CZ1bShLpp41RF0iOahANG27SVBE/edit?filetype=mspresentation","https://www.columbiacollege.ca/programs/course/csci-237/"],
+        "desc":"Made an in-class presentation for CSCI 237, focusing on business intelligence, decision making, and data warehouses.",
+        "year":"2022"
+    },
+    {
+        "id": "6",
+        "thumb": "https://i.ibb.co/chpsd6j/4f9c437a-1da1-4c8b-8a9c-d1b1cc80f915-rwc-441x0x5116x4000x640.jpg",
+        "images":["https://i.ibb.co/y5kd2jm/24532838-8f6b-4139-b81c-65c1eea157de.jpg"],
+        "title":"Studying Mass Communication",
+        "linkName":["Presentation","CMNS 130"],
+        "link": ["https://docs.google.com/file/d/1hN4qWx_2X-fUzjapwpwtFMgt_cRYRJBO/edit?filetype=msword","https://www.columbiacollege.ca/programs/course/cmns-130/"],
+        "desc":"In-class presentation for CMNS 130, discussing the importance of studying Mass Communication from a critical perspective.",
+        "year":"2022"
+    },
+    {
+        "id": "7",
+        "thumb": "https://i.ibb.co/vHLWqjB/933c7bdb-cdf2-4bc2-8cb4-d69edb5a3cff-rwc-424x0x4911x3840x640.jpg",
+        "images":["https://i.ibb.co/hYd9Q8S/reerw.jpg"],
+        "title":"DEMOCRATIC DIFFERENCES BETWEEN INDIA & CANADA",
+        "linkName":["Presentation","PSCI 202"],
+        "link": ["https://docs.google.com/file/d/1LBvK9aeMB8zUsvN8af7EEd9KIGNfagxx/edit?filetype=mspresentation","https://www.columbiacollege.ca/programs/course/psci-202/"],
+        "desc":"In-class presentation for PSCI 202, highlighting the democratic differences between Canada and India.",
+        "year":"2022"
+    },
+    {
+        "id": "8",
+        "thumb": "https://i.ibb.co/MkDwz46/3418a1af-477a-44c8-b4ed-51343878998c-rwc-206x0x1745x1365x640.jpg",
+        "images":["https://i.ibb.co/f4cW5ng/htrkr.jpg",
+        "https://i.ibb.co/Qky7kzF/hrhtr.jpg",
+        "https://i.ibb.co/djQ6yr6/urhe.jpg",
+        "https://i.ibb.co/yhqFJCH/hrhper.jpg",
+        "https://i.ibb.co/5RRRNzP/tyfug.jpg",
+        "https://i.ibb.co/Z2DrkJd/tyfuog.jpg",
+        "https://i.ibb.co/6PXPB0f/yuuif.jpg",
+        "https://i.ibb.co/rMt7x57/krtjtt.jpg"],
+        "title":"PROJECT AWARENESS",
+        "linkName":["Project Awareness","BASICS"],
+        "link": ["https://www.facebook.com/permalink.php?story_fbid=2509364569163988&id=1818239711609814","https://www.facebook.com/Basics-1818239711609814"],
+        "desc":"In May 2020, during Eid celebrations, we conducted Project Awareness through BASICS, distributing masks and using disinfectant sprays to spread awareness about the precautionary measures against COVID.",
+        "year":"2022"
+    },
+    {
+        "id": "9",
+        "thumb": "https://i.ibb.co/x3p9SGT/9561a035-f32e-463c-a1e1-6d2ebcf0d417-rwc-13x0x578x452x578.png",
+        "images":["https://i.ibb.co/Wnyccck/1e58ca71-a577-4aae-abb8-1cf162dcf8f3.jpg"],
+        "title":"DEMOCRACY AND OIL DISTRIBUTION",
+        "linkName":["Presentation","PSCI 202"],
+        "link": ["https://docs.google.com/file/d/1Yt8Ki4V4Y3xyP2Pn8bCuhjHr6ksoCJD6/edit?filetype=mspresentation","https://www.columbiacollege.ca/programs/course/psci-202/"],
+        "desc":"In-class presentation for PSCI 202, describing how democracies are shaped around mining and distributing oil and their global effects.",
+        "year":"2022"
+    },
+    {
+        "id": "10",
+        "thumb": "https://i.ibb.co/6YzHRy9/95866d00-eee6-48ff-a284-16228845c6d3-rwc-20x0x920x720x640.jpg",
+        "images":["https://i.ibb.co/6YzHRy9/95866d00-eee6-48ff-a284-16228845c6d3-rwc-20x0x920x720x640.jpg","https://i.ibb.co/88hFhqx/c46650a2-a232-4773-83ee-d68786a9865b.jpg",
+        "https://i.ibb.co/c1Y4hWT/a2141d65-f94b-47f9-bec0-3cc88b03f9f3.jpg"],
+        "title":"Project S1",
+        "linkName":["BASICS","UCSKS","Project S1"],
+        "link": ["https://www.facebook.com/Basics-1818239711609814/","https://www.facebook.com/chinnomulSKS","https://www.facebook.com/permalink.php?story_fbid=2680921768674933&id=1818239711609814"],
+        "desc":"In July 2020, BASICS, a charitable organization that I founded, collaborated with UCSKS, a child welfare organization, to renovate their school with new furniture, a ceiling fan, a water filter, and some financial support, under Project S1.",
+        "year":"2022"
+    }
+]

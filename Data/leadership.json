@@ -1,0 +1,28 @@
+[
+    {
+    "id":"1",
+    "title":"Travelian",
+    "thumb":"https://i.ibb.co/B65G9t4/b45bf5a9-e1c8-4dd6-b3a1-1c8384d93c40-rw-1200.jpg",
+    "images":["https://i.ibb.co/B65G9t4/b45bf5a9-e1c8-4dd6-b3a1-1c8384d93c40-rw-1200.jpg"],
+    "year":"2022",
+    "link":"https://www.facebook.com/traveliaan",
+    "desc":"In July 2021, I founded a travel agency named 'Traveliaan.' We started with individual tourism services and eventually expanded to corporations. Over a year, as a team of 5, we deal with 15-20 and, during holiday seasons, 40-50 daily clients."},
+
+    {
+    "id":"2",
+    "title":"Basics",
+    "thumb":"https://i.ibb.co/NjtJhk4/94e1cd3b-ae00-4144-8b2e-514470660ba9-rwc-0x185x1699x1329x640.jpg",
+    "images":[
+        "https://i.ibb.co/wRhCzbZ/09880e81-0fd3-4d1f-aa7a-d64ea69ad887.jpg",
+        "https://i.ibb.co/FnSmCpW/1f2a983b-814c-4248-b542-afb89b5b3357-rw-1200.jpg",
+    "https://i.ibb.co/Pm0nH88/c9f23bae-a5da-4bb5-ae6e-082e8e9ea95e-rw-1920.jpg",
+        "https://i.ibb.co/VvfS5RV/126ed831-7b4c-4b25-b7c6-2c7a0e480c7b-rw-1920.jpg",
+        "https://i.ibb.co/7150cB6/580ef63c-9927-488e-8491-9f3c63fd6eed-rw-1200.jpg",
+        "https://i.ibb.co/ftDPjB9/9561396e-1c29-40a8-8bf8-9dbb367fb225-rw-1200.jpg",
+        "https://i.ibb.co/jWctpZv/2ead9e47-9c59-4c58-8304-8e796f353ec6-rw-1200.jpg",
+        "https://i.ibb.co/JFBTmYb/089b553f-6f4f-4eb4-98ca-20a26aebf757-rw-1200.jpg"
+],
+    "year":"2022",
+    "link":"https://www.facebook.com/Basics-1818239711609814",
+    "desc":"In 2018, I, along with some of my friends, conducted a few charitable projects, and seeing the impact these had on people's lives, I decided to found BASICS in Jan 2019.  Since then, I urged and assigned a few of my friends with specialized tasks and took in volunteers to organize periodical fundraisers and projects inside and outside the capital city of Bangladesh. During festivals, such as Eid and Pahela Baishak (Bengali New Year), and crises, such as COVID, we distributed clothes, provisions, and money to laborers and destitute people in need. We worked with other welfare and charitable organizations, such as Uttara Chinnomul Shishu Kollan Shongstha (UCSKS), providing support with renovations and finances. Some of our biggest projects include Project S1, Project Awareness, Project Relief, etc."}
+]

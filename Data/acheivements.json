@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "title": "Employee of the Month",
+        "thumb":"https://i.ibb.co/HpFZmrG/a8360cba-e535-4020-8aa4-892b2edf3fea-rw-1920.jpg",
+        "desc":"During my employment as Marketing Advisor at Webcoder-IT Institute, I was designated the 'Employee of the Month' award for the month of May 2020. This was due to a number of successful marketing campaigns during the aforementioned month."
+    },
+    {
+        "id": "2",
+        "title": "Class Honor Roll Award",
+        "thumb":"https://i.ibb.co/bJCb6bt/16f1a6d3-405b-4b00-b286-4476838be0e3-rw-1920.jpg",
+        "desc":"I was placed on the Honor Roll for the academic year of 2019, for excellent performance in grade 12."
+    },
+    {
+        "id": "3",
+        "title": "Best Performer Award",
+        "thumb":"https://i.ibb.co/Gns3760/8a867935-7f98-41cf-b541-fa26094d177b.jpg",
+        "desc":"I received the 'Best Performer Award' from UCSKS for Project S1, as the most generous donation and contribution during the year of 2020."
+    }
+]
+
+
